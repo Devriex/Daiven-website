@@ -1,3 +1,15 @@
 .daiventest{
   color:blue;
 }
+.intro-description{
+ padding:180px 0; 
+}
+.intro-description div{
+ width:50%;
+}
+.intro-image img{
+  height: 400px;
+  width: 400px;
+  border: solid red 5px;
+  border-radius: 50%;
+}
